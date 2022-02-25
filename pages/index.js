@@ -28,9 +28,9 @@ export default function Home() {
                     <span>Siga o Império</span>
                 </div>
                 <div className={styles.right}>
-                    <span><a href="http://twitter.com" target="_blank">Twitter</a></span>
-                    <span><a href="http://facebook.com" target="_blank">Facebook</a></span>
-                    <span><a href="http://instagram.com" target="_blank">Instagram</a></span>
+                    <span><a href="http://twitter.com" target="_blank" rel="noreferrer">Twitter</a></span>
+                    <span><a href="http://facebook.com" target="_blank" rel="noreferrer">Facebook</a></span>
+                    <span><a href="http://instagram.com" target="_blank" rel="noreferrer">Instagram</a></span>
                 </div>
             </div>
         </div>
